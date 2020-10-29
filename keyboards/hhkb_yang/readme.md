@@ -32,6 +32,7 @@ your actual disk.
 - [x] Battery service
 - [x] Special commands
   - [x] Switch BT peer
+- [ ] Toggle internal USB hub
 
 ## Entering flash mode
 
